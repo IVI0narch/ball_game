@@ -1,0 +1,3 @@
+vasya 54
+biba 43
+boba 40
